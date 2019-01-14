@@ -6,7 +6,6 @@
 //  Copyright © 2018 Vadim Bulavin. All rights reserved.
 //
 
-//Test
 import UIKit
 
 class StickyGridCollectionViewLayout: UICollectionViewFlowLayout {
