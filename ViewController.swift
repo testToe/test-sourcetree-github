@@ -6,6 +6,7 @@
 //  Copyright © 2018 Vadim Bulavin. All rights reserved.
 //
 
+//thuzar Testing
 import UIKit
 
 class ViewController: UIViewController {
