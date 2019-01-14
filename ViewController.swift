@@ -3,10 +3,14 @@
 //  StickyGridCollectionView-Starter
 //
 //  Created by Vadim Bulavin on 10/1/18.
-//  Copyright © 2018 Vadim Bulavin. All rights reserved.
+//  Copyright © 2018 Frobo. All rights reserved.
 //
 
 //thuzar Testing
+//TS
+//=======
+//thuzar222222 Testing
+
 import UIKit
 
 class ViewController: UIViewController {
